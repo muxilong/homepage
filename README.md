@@ -18,7 +18,13 @@
 
 ```
 
-   - [*]
+   - [ ] innocent
+   
+   - [ ] honest
+   
+   - [ ] optimistic
+   
+   - [ ] straightforward
 
 3. **我的照片**
 
