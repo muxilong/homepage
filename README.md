@@ -13,13 +13,13 @@
   
 2. ***穆禧龙是一个怎样的人***
 
-   - [*] innocent
+   - [x] innocent
    
-   - [*] honest
+   - [x] honest
    
-   - [ ] optimistic
+   - [x] optimistic
    
-   - [ ] straightforward
+   - [x] straightforward
 
 3. **我的照片**
 
