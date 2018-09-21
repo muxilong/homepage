@@ -1,6 +1,6 @@
-## muxilong ##
+# muxilong #
 
-1. ***personal information***
+## personal information  ##
 
 * QQ:**3281532468**
    
@@ -11,7 +11,7 @@
       * E-mail:**1800011745@pku.edu.cn**
    
   
-2. ***穆禧龙是一个怎样的人***
+## 穆禧龙是一个怎样的人 ##
 
    - [x] innocent
    
@@ -21,7 +21,7 @@
    
    - [x] straightforward
 
-3. **我的照片**
+## 我的照片 ##
 
 
 
