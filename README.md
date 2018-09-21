@@ -14,7 +14,7 @@
    
 ***
 
-## 穆禧龙是一个怎样的人 ##
+## AM ##
 
    - [x] innocent
    
@@ -24,7 +24,7 @@
    
    - [x] straightforward
 
-## 我的照片 ##
+## photo ##
 
 
 
