@@ -13,8 +13,6 @@
 ***
 
 ## AM ##
-
-   - [x] innocent
    
    - [x] honest
    
